@@ -17,5 +17,5 @@ Gem::Specification.new do |gem|
 
   gem.add_development_dependency 'combustion', '~> 1.1', '>= 1.1.0'
 
-  gem.extensions = ['ext/npm/extconf.rb']
+  # gem.extensions = ['ext/npm/extconf.rb']
 end
